@@ -1,1 +1,3 @@
 # Customer-Churn-Analysis
+
+Developed a machine learning model for a music streaming service, focusing on increasing user retention and profitability. The approach involved three main strategies: personalizing user experience, optimizing payment plans and pricing, and improving customer service and user engagement. Using a 60k-row dataset, I applied data preprocessing, feature engineering, and user segmentation along with data mining techniques, such as K-means clustering, content-based filtering, logistic regression, decision tree, and random forest classifiers. After evaluating the effectiveness of proposed strategies, I derived business recommendations to enhance user engagement and determined an optimal pricing plan of $149 per month.
